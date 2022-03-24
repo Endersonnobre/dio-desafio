@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\bin\Debug\netcoreapp3.1\RpgPOO.exe
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\bin\Debug\netcoreapp3.1\RpgPOO.deps.json
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\bin\Debug\netcoreapp3.1\RpgPOO.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\bin\Debug\netcoreapp3.1\RpgPOO.runtimeconfig.dev.json
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\bin\Debug\netcoreapp3.1\RpgPOO.dll
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\bin\Debug\netcoreapp3.1\RpgPOO.pdb
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\obj\Debug\netcoreapp3.1\RpgPOO.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\obj\Debug\netcoreapp3.1\RpgPOO.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\obj\Debug\netcoreapp3.1\RpgPOO.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\obj\Debug\netcoreapp3.1\RpgPOO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\obj\Debug\netcoreapp3.1\RpgPOO.dll
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\obj\Debug\netcoreapp3.1\RpgPOO.pdb
+C:\Users\HP\Documents\GitHub\dio-desafio\AbstracaoRPG\RpgPOO\RpgPOO\obj\Debug\netcoreapp3.1\RpgPOO.genruntimeconfig.cache
